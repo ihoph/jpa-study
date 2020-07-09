@@ -1,10 +1,10 @@
-package study.jpastudy;
+package study.jpastudy.subway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JpaStudyApplicationTests {
+class SubwayApplicationTests {
 
     @Test
     void contextLoads() {
