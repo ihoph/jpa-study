@@ -1,4 +1,4 @@
-package study.jpastudy.chapter_2;
+package study.jpastudy.chapter_4;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
